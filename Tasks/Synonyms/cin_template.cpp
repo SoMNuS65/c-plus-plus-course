@@ -4,7 +4,7 @@
 #include <string>
 
 int main() {
-		std::map<std::string, std::set<std::string>> synonims_Dict;
+	std::map<std::string, std::set<std::string>> synonims_Dict;
         int n {0};
         std::cin >> n;
 
